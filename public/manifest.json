@@ -1,8 +1,8 @@
 {
-  "name": "LiveTerm",
-  "short_name": "LiveTerm",
-  "theme_color": "#2E3440",
-  "background_color": "#2E3440",
+  "name": "Dracula",
+  "short_name": "Dracula",
+  "theme_color": "#282a36",
+  "background_color": "#FFFFDB",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
