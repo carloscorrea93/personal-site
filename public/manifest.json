@@ -1,8 +1,8 @@
 {
-  "name": "LiveTerm",
-  "short_name": "LiveTerm",
-  "theme_color": "#2E3440",
-  "background_color": "#2E3440",
+  "name": "Carlos Correa",
+  "short_name": "carloscorrea93",
+  "theme_color": "#C4EBFD",
+  "background_color": "#C4EBFD",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
