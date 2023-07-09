@@ -1,21 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "readmeUrl": "https://raw.githubusercontent.com/carloscorrea93/carloscorrea93/master/README.md",
+  "title": "carloscorrea93 (Carlos Correa)",
+  "name": "Carlos Correa",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "carloscorrea93",
+    "linkedin": "carloscorrea-432a3b156"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "hello@carloscorrea.dev",
+  "ps1_hostname": "carloscorrea.dev",
+  "ps1_username": "user",
+  "repo": "https://github.com/carloscorrea93/personal-site",
+  "resume_url": "",
   "colors": {
     "light": {
       "background": "#FBF1C9",
