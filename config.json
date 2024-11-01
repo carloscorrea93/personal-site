@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/carloscorrea93/carloscorrea93/master/README.md",
-  "title": "carloscorrea93 (Carlos Correa)",
+  "title": "Carlos Correa Dev",
   "name": "Carlos Correa",
   "ascii": "liveterm",
   "social": {
@@ -9,27 +9,27 @@
   },
   "email": "hello@carloscorrea.dev",
   "ps1_hostname": "carloscorrea.dev",
-  "ps1_username": "user",
-  "repo": "https://github.com/carloscorrea93/personal-site",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/carloscorrea93/carloscorrea93",
   "resume_url": "",
   "colors": {
     "light": {
-      "background": "#FFFFDB",
-      "foreground": "#282a36",
-      "yellow": "#ffb86c",
-      "green": "#50fa7b",
-      "gray": "#8B6BB9",
-      "blue": "#67AFC0",
-      "red": "#ff5555"
+      "background": "#E5E9F0",
+      "foreground": "#2E3440",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     },
     "dark": {
-      "background": "#282a36",
-      "foreground": "#f8f8f2",
-      "yellow": "#ffb86c",
-      "green": "#50fa7b",
-      "gray": "#bd93f9",
-      "blue": "#8be9fd",
-      "red": "#ff5555"
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     }
   }
 }

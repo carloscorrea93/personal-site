@@ -19,14 +19,15 @@ const App = ({ Component, pageProps }) => {
           maximum-scale="1"
         />
       </Head>
-
-      <div
-        className="text-light-foreground dark:text-dark-foreground min-w-max text-xs md:min-w-full md:text-base"
-        onClick={onClickAnywhere}
-      >
-        <main className="bg-light-background dark:bg-dark-background w-full h-full p-2">
-          <Component {...pageProps} inputRef={inputRef} />
-        </main>
+      <div className="dark">
+        <div
+          className="text-light-foreground dark:text-dark-foreground min-w-max text-xs md:min-w-full md:text-base"
+          onClick={onClickAnywhere}
+        >
+          <main className="bg-light-background dark:bg-dark-background w-full h-full p-2">
+            <Component {...pageProps} inputRef={inputRef} />
+          </main>
+        </div>
       </div>
     </>
   );
