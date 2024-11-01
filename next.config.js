@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: '/contest/4349/fb/ads',
-        destination: 'https://www.facebook.com/share/p/XTJ4EKcmqozrT2uN/?mibextid=WC7FNe',
+        destination: 'https://www.facebook.com/share/p/XTJ4EKcmqozrT2uN',
         permanent: true,
       },
       {
